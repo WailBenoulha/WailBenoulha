@@ -8,6 +8,8 @@ I'm a software engineer and backend developer with a passion for technology.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing chess and camping in nature.
 
+[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,sklearn,vscode,pycharm,react,redis,js,docker,aws,flutter,express,git,github,idea,java,linux,mysql,nodejs,npm,postgres,postman,powershell,html,css)](https://skillicons.dev)
+
 <!---
 WailBenoulha/WailBenoulha is a ✨ software engineer and backend developer ✨ a data science student at NTIC constantine
 --->
