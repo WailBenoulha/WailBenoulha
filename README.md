@@ -10,9 +10,6 @@ I'm a software engineer and backend developer with a passion for technology.
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,express,nodejs,sqlite,postgres,sklearn,pycharm,react,redis,js,docker,aws,flutter,git,github,idea,java,linux,mysql,npm,postman,powershell,vscode,html,css)](https://skillicons.dev)
 
-![Wail's github stats](https://github-readme-stats.vercel.app/api?username=wailbenoulha&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WailBenoulha&layout=compact)](https://github.com/WailBenoulha/github-readme-stats)
 
 <!---
 WailBenoulha/WailBenoulha is a ✨ software engineer and backend developer ✨ a data science student at NTIC constantine
